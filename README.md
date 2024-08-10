@@ -16,7 +16,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 8. ミュウツー
 9. Psyduck
 10. HOGATOR!!!!!!!!!!!
-11. 
+11. Snorlax
 12. 
 13. snorlax
 14. カビゴン
