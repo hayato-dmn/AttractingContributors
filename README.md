@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite Pokémon.
 21. Yadon
 22. Coil
 23. Gangar
+24. ニャオハ
