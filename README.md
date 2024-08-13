@@ -8,21 +8,22 @@ Goal - I want contributors to help me list some favorite Pokémon.
 1. Greninja
 2. Rotom
 3. Mega Mawile
-3. Nyahoja (Sprigatito, #0906)
-4. Pikachu
-5. Thunders
-6. Kairos
-7. Scyther
-8. ミュウツー
-9. Psyduck
-10. HOGATOR!!!!!!!!!!!
-11. Dialga
-12. 
-13. snorlax
-14. カビゴン
-15. Pecharunt
-16. Lapras
-17. Pikachu
-18. Glaceon
-19. ソーナンス
-20. 
+4. Nyahoja (Sprigatito, #0906)
+5. Pikachu
+6. Thunders
+7. Kairos
+8. Scyther
+9. ミュウツー
+10. Psyduck
+11. HOGATOR!!!!!!!!!!!
+12. Dialga
+13. 
+14. snorlax
+15. カビゴン
+16. Pecharunt
+17. Lapras
+18. Pikachu
+19. Glaceon
+20. ソーナンス
+21. Yadon
+22. Coil
