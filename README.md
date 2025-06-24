@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some favorite Pokémon.
 22. Coil
 23. Gangar
 24. ニャオハ
+25. Whiscash
